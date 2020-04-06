@@ -1,6 +1,7 @@
 1.要先去Tool -> manage library -> 收尋 DHT -> 安裝1.2.3板
                               -> 收尋WiFiEsp -> 安裝 2.2.2板
 2.安裝apache server
+arduino.php 是處理溫濕度並且算平均的
 3.主程式碼WiFiEsp/WiFiEsp_test.ino
 
 
